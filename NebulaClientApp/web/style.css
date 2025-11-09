@@ -1,0 +1,22 @@
+body {
+  background: radial-gradient(circle at top, #0b0b2e, #000);
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 60px;
+}
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  background: #272755;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+button:hover {
+  background: #3b3b8a;
+}
